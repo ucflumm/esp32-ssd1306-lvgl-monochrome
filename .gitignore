@@ -11,3 +11,5 @@ sdkconfig.defaults
 .lock
 main/.cproject
 main/.project
+dependencies.lock
+.vscode

@@ -21,7 +21,7 @@
 #include "driver/gpio.h"
 #include "rom/gpio.h"
 /* MACROS --------------------------------------------------------------------*/
-#define GPIO_RESET		0
+#define GPIO_RESET		0                                                                            
 #define GPIO_SET		1
 
 #define ENABLE			1
